@@ -1,4 +1,3 @@
-# GA4-Checker-
 # GA4 Presence Checker 🕵️‍♂️
 
 A Python script that crawls through a website and checks whether [Google Analytics 4 (GA4)] tracking code is present on each page. It helps you quickly identify which pages are missing GA4 integration.
